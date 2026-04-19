@@ -1,5 +1,23 @@
-# 💫 About Me:
-# Hi, I'm Rania 👋<br><br>🔐 Cybersecurity Aspirant | 🏆 Hackathon Problem Solver  <br>💻 Building secure, real-world solutions  <br>📈 Digital Marketing Learner (Side Hustle)<br><br>---<br><br>## 🚀 Tech Stack<br>- 💻 Java, Python  <br>- 🌐 HTML (Basics)  <br>- 🗄️ MongoDB (Basics)  <br>- 📊 Data Structures & Algorithms  <br><br>---<br><br>## 🔐 Cybersecurity & Networking<br>- Cisco Networking Academy – Introduction to Cybersecurity  <br>- Learning Networking Fundamentals  <br>- Capture The Flag (CTF) Participant (Ranked 13 🏆)  <br><br>---<br><br>## 🏆 Experience & Achievements<br>- 🧠 Participated in GDG Events  <br>- 🏆 Active Hackathon Problem Solver  <br>- 🎯 Built and contributed to real-world ideas in hackathons  <br><br>---<br><br>## 📜 Certifications<br>- 📌 Deloitte Cyber Job Simulation  <br>- 📌 MongoDB Basics Certification  <br>- 📌 Accenture Digital Skills: User Experience  <br>- 📌 Cisco Introduction to Cybersecurity  <br>- 📌 Udemy Excel Tricks  <br><br>---<br><br>## 🎨 Additional Skills<br>- 📈 SEO Tools (Basics)  <br>- 🎨 Design Tools (Canva / UI Basics)  <br><br>---<br><br>## 📂 Projects<br>- 🔹 MediQ(Hospital Workflow System)<br>  <br><br>---<br><br>## 📈 Current Goals<br>- Build cybersecurity tools  <br>- Strengthen problem-solving skills  <br>- Explore AI in security  <br><br>---<br><br>## 📫 Connect with me<br>- LinkedIn: https://www.linkedin.com/in/rania-r-942a33
+💫 About Me:
+Hi, I’m Rania 👋
+🔐 Cybersecurity Aspirant | 🏆 Hackathon Problem Solver
+💻 Building secure, real-world solutions
+📈 Digital Marketing Learner (Side Hustle)
+—
+## 🔐 Cybersecurity & Networking
+- Cisco Networking Academy – Introduction to Cybersecurity
+- Learning Networking Fundamentals
+- Capture The Flag (CTF) Participant (Ranked 13 🏆)
+—
+## 🎨 Additional Skills
+- 📈 SEO Tools (Basics)
+—
+## 📂 Projects
+- MediQ(Hospital Workflow System)
+- Student Feedback and Course Review System
+—
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/rania-r-942a33
 
 
 ## 🌐 Socials:
