@@ -1,21 +1,20 @@
-💫 About Me:
 Hi, I’m Rania 👋
 🔐 Cybersecurity Aspirant | 🏆 Hackathon Problem Solver
 💻 Building secure, real-world solutions
 📈 Digital Marketing Learner (Side Hustle)
-—
+
 ## 🔐 Cybersecurity & Networking
 - Cisco Networking Academy – Introduction to Cybersecurity
 - Learning Networking Fundamentals
 - Capture The Flag (CTF) Participant (Ranked 13 🏆)
-—
+
 ## 🎨 Additional Skills
 - 📈 SEO Tools (Basics)
-—
+
 ## 📂 Projects
 - MediQ(Hospital Workflow System)
 - Student Feedback and Course Review System
-—
+
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/rania-r-942a33
 
